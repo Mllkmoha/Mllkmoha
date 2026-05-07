@@ -1,6 +1,6 @@
-I'm Mohamed, a full-stack web developer based in Algeria 🇩🇿.
+I'm Rafik, a full-stack web developer based in Algeria 🇩🇿.
 
-I design and build web apps from idea to real, working product 🚀.
+I build web apps from idea to real 🚀.
 
 If I think of something, chances are I’ll try to build it and make it work.
 
