@@ -1,23 +1,14 @@
-# Hi there 👋 I'm Mohamed Rafik Mellouk
+I'm Mohamed, a full-stack web developer based in Algeria 🇩🇿.
+I design and build web apps from idea to real, working product 🚀.
+If I think of something, chances are I’ll try to build it and make it work.
 
-**Full-Stack Engineer & Web Developer obsessed with clean logic and building scalable digital systems.**
+My main tech stack is React ⚛️, JavaScript 💛, Node.js 🌐, and Tailwind CSS 🎨. My favorite tools are VSCode 💻, GitHub 🐙.
 
----
+I’ve got a bunch of projects on my GitHub, but my main focus is building real-world full-stack apps.
 
-### 🔭 The Professional Side
-- **I build and ship whatever I can envision in my terminal.** - If a complex logic flow pops into my head, I’ll code it, debug it, and deploy it.
-- My goal is to bridge high-performance back-ends with seamless, modern interfaces.
+Fun Facts:
+I spend too much time fixing bugs I created myself 🐛
+I learn best by building, not watching 📚
+I like turning small ideas into full projects 💡
 
-### 🛠️ Tech DNA
-- **Stack:** React, Node.js, Express, & MongoDB (MERN).
-- **Core:** JavaScript (ES6+), TypeScript, & REST APIs.
-- **Environment:** Dedicated **Linux** user (Ubuntu/Tuxedo) & AI-native workflows (Cursor/Claude 3.5).
-
-### ⚡ Fun Facts
-- 🐧 **Linux Specialist:** I live and breathe the terminal.
-- 🤖 **AI-Powered:** Shipping at 10x speed using modern AI tools.
-- 🛴 **Scooter Fanatic:** Passionate about high-performance electric mobility.
-- 🌍 **Global Vision:** Building software for the international market.
-
----
-*“Building things,,, and mastering the magic.”*
+Hobbies: coding 💻, gym 🏋️, and building things 🔧
