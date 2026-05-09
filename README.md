@@ -1,4 +1,4 @@
-I'm Rafik, a full-stack web developer based in Algeria 🇩🇿.
+I'm Rafik, a full-stack web developer.
 
 I build web apps from idea to real 🚀.
 
