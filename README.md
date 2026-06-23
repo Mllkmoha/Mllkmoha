@@ -1,16 +1,21 @@
-I'm Rafik, a full-stack web developer.
+I’m Rafik, a Full-Stack Web Developer passionate about building modern, scalable web applications.
 
-I build web apps from idea to real 🚀.
+I enjoy taking ideas and turning them into real products — from designing the user experience on the frontend to building the logic and systems behind the scenes.
 
-If I think of something, chances are I’ll try to build it and make it work.
+My current stack includes:
+⚛️ React
+💛 JavaScript / TypeScript
+🌐 Node.js & backend development
+🎨 Tailwind CSS
+🗄️ Databases & APIs
 
-My main tech stack is React ⚛️, JavaScript 💛, Node.js 🌐, and Tailwind CSS 🎨. My favorite tools are VSCode 💻, GitHub 🐙.
+I use tools like Git, GitHub, VS Code, and Linux to build, test, and improve my projects.
 
-I’ve got a bunch of projects on my GitHub, but my main focus is building real-world full-stack apps.
+I believe the best way to learn is by building. Every project helps me improve my problem-solving skills, write better code, and understand how real-world applications are created.
 
-Fun Facts:
-I spend too much time fixing bugs I created myself 🐛
-I learn best by building, not watching 📚
-I like turning small ideas into full projects 💡
+Currently focused on growing as a Full-Stack Developer and creating projects that solve real problems.
 
-Hobbies: coding 💻, gym 🏋️, and building things 🔧
+Outside of coding:
+💻 Building projects
+🏋️ Training
+🚀 Learning new technologies
