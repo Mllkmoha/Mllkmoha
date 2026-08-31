@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m a motivated Junior Full-Stack Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Node.js, and Express. I enjoy building modern, responsive web applications, learning new technologies, and solving technical problems. I’m currently looking for an opportunity to strengthen my skills, gain real-world experience, and contribute to a professional development team.
+
+I’m a motivated Junior Full-Stack Web Developer with hands-on experience in HTML, CSS, JavaScript, React, Node.js, and Express. I enjoy building modern, responsive web applications, learning new technologies, and solving technical problems.
+
+I’m currently looking for a junior or internship opportunity where I can strengthen my skills, gain real-world experience, and contribute to a professional development team.
 
 
 ## 🌐 Socials:
