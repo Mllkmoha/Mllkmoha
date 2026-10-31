@@ -49,7 +49,7 @@ const moha = {
 
 ### 🔭 Currently
 
-- 🚧 Building **LeadFlow**, a full CRM with Next.js 16
+- 🚀 Just shipped **LeadFlow**, a full CRM built with Next.js 16
 - 📚 Going deeper into **TypeScript** and **Prisma**
 - 🎥 Creating Linux & tech content for a European audience
 - 🤝 Ready to join a team and ship real features
@@ -65,41 +65,38 @@ const moha = {
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mllkmoha/LeadFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mllkmoha&repo=LeadFlow&theme=tokyonight&hide_border=true" alt="LeadFlow" />
-      </a><br/>
-      <b>🧲 LeadFlow</b> ⭐ <sub>best project</sub><br/>
-      <sub>CRM to manage leads and pipeline with GitHub OAuth</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,tailwind" alt="stack" />
+      <h3>🧲 LeadFlow ⭐</h3>
+      <sub>Best project</sub><br/>
+      CRM to manage leads and pipeline with GitHub OAuth<br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,tailwind" alt="stack" /><br/><br/>
+      <a href="https://leadflow-coral-six.vercel.app/">🔴 Live Demo</a> · <a href="https://github.com/Mllkmoha/LeadFlow">📂 Code</a><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/Mllkmoha/LeadFlow?style=flat-square&color=1f6feb" alt="last commit" />
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mllkmoha/ShopZone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mllkmoha&repo=ShopZone&theme=tokyonight&hide_border=true" alt="ShopZone" />
-      </a><br/>
-      <b>🛒 ShopZone</b><br/>
-      <sub>Full-stack e-commerce with JWT auth and a REST API</sub><br/><br/>
+      <h3>🛒 ShopZone</h3>
+      <sub>E-commerce</sub><br/>
+      Full-stack store with JWT auth and a REST API<br/><br/>
       <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb" alt="stack" /><br/><br/>
-      <a href="https://shop-zone-woad.vercel.app">🔴 Live Demo</a>
+      <a href="https://shop-zone-woad.vercel.app">🔴 Live Demo</a> · <a href="https://github.com/Mllkmoha/ShopZone">📂 Code</a><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/Mllkmoha/ShopZone?style=flat-square&color=1f6feb" alt="last commit" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mllkmoha/nextlevel-food">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mllkmoha&repo=nextlevel-food&theme=tokyonight&hide_border=true" alt="NextLevel Food" />
-      </a><br/>
-      <b>🍔 NextLevel Food</b><br/>
-      <sub>Food sharing platform built with Server Actions</sub><br/><br/>
+      <h3>🍔 NextLevel Food</h3>
+      <sub>Food sharing platform</sub><br/>
+      Built with Next.js Server Actions and Supabase<br/><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,postgres" alt="stack" /><br/><br/>
-      <a href="https://nextlevel-food-psi.vercel.app">🔴 Live Demo</a>
+      <a href="https://nextlevel-food-psi.vercel.app">🔴 Live Demo</a> · <a href="https://github.com/Mllkmoha/nextlevel-food">📂 Code</a><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/Mllkmoha/nextlevel-food?style=flat-square&color=1f6feb" alt="last commit" />
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Mllkmoha/food-ordering-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mllkmoha&repo=food-ordering-app&theme=tokyonight&hide_border=true" alt="Food Ordering App" />
-      </a><br/>
-      <b>🍕 Food Ordering App</b><br/>
-      <sub>Ordering flow with cart and REST backend</sub><br/><br/>
+      <h3>🍕 Food Ordering App</h3>
+      <sub>Ordering app</sub><br/>
+      Ordering flow with cart and REST backend<br/><br/>
       <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" alt="stack" /><br/><br/>
-      <a href="https://food-ordering-app-l2kv.vercel.app">🔴 Live Demo</a>
+      <a href="https://food-ordering-app-l2kv.vercel.app">🔴 Live Demo</a> · <a href="https://github.com/Mllkmoha/food-ordering-app">📂 Code</a><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/Mllkmoha/food-ordering-app?style=flat-square&color=1f6feb" alt="last commit" />
     </td>
   </tr>
 </table>
@@ -153,14 +150,12 @@ I run a **TikTok channel** about Linux and tech, mainly for a European audience.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mllkmoha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mllkmoha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Mllkmoha&theme=tokyonight&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mllkmoha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mllkmoha&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/58a6ff/Mllkmoha" alt="Contribution calendar" width="100%" />
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/Mllkmoha?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
+  <img src="https://img.shields.io/github/created-at/Mllkmoha?label=Member+since&style=for-the-badge&logo=github&color=0d1117" alt="Member since" />
 </div>
 
 ---
